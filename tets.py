@@ -1,0 +1,1 @@
+print('You will mastert the Art of IOT, AI and Ethicalhacking/cysber')
